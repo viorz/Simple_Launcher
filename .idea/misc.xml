@@ -5,9 +5,14 @@
       <map>
         <entry key="..\:/Study/Programm/Android/app/src/main/res/layout/AppsListActivity.xml" value="0.1" />
         <entry key="..\:/Study/Programm/Android/app/src/main/res/layout/activity_apps_list.xml" value="0.1" />
+        <entry key="..\:/Study/Programm/Android/app/src/main/res/layout/activity_apps_list2.xml" value="0.18206521739130435" />
         <entry key="..\:/Study/Programm/Android/app/src/main/res/layout/activity_home.xml" value="0.1" />
-        <entry key="..\:/Study/Programm/Android/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Study/Programm/Android/app/src/main/res/layout/list_item.xml" value="0.1" />
+        <entry key="..\:/Study/Programm/Android/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Study/Programm/Android/app/src/main/res/layout/content_apps_list2.xml" value="0.18206521739130435" />
+        <entry key="..\:/Study/Programm/Android/app/src/main/res/layout/fragment_first.xml" value="0.18206521739130435" />
+        <entry key="..\:/Study/Programm/Android/app/src/main/res/layout/fragment_second.xml" value="0.18206521739130435" />
+        <entry key="..\:/Study/Programm/Android/app/src/main/res/layout/homescreen.xml" value="0.1" />
+        <entry key="..\:/Study/Programm/Android/app/src/main/res/layout/list_item.xml" value="0.16" />
       </map>
     </option>
   </component>
